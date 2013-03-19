@@ -6,9 +6,9 @@ http://stackoverflow.com/questions/12423965/maven-aspectj-all-steps-to-configure
 
 Usage:
 
-<pre>
+```bash
 mvn clean install
 cd client
 mvn exec:java
-</pre>
+```
 
